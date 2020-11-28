@@ -49,6 +49,6 @@ Below Functionalities should be implemented in your Project:
 
 ---
 
-**Deadline** - **Saturday, 12PM ( DAY 4)**
+**Deadline** - **Sunday, 12PM ( DAY 4)**
 
 ---
